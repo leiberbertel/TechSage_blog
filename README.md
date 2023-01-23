@@ -1,3 +1,4 @@
-##Django portfolio
+## Django blogger
+### En desarrollo
 
-![review](https://drive.google.com/file/d/1Fkt7IQyiNlrNzibftrzvcrVOdnaoXRPs/view?usp=share_link)
+![review](https://imgur.com/a/EdSPide)
