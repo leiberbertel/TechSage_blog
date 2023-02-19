@@ -30,6 +30,12 @@ body{
     left: 50%;
 }
 
+@media only screen and (min-width: 768px){
+    .container,
+    .container-sw{
+        max-width: 100%;
+    }
+}
 
 
 .fw-500{
@@ -58,6 +64,10 @@ body{
 
 .infscroll-title{
     font-size: 22px;
+    letter-spacing: -0.6px;
+}
+
+.blogger h1{
     letter-spacing: -0.6px;
 }
 
