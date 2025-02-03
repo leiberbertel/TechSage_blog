@@ -6,10 +6,10 @@ TechSage is a technology blog where we share articles, news and tutorials about 
 
 - **Django**: Web framework for fast and scalable development.
 - **django-htmx**: HTMX integration with Django for partial page refresh without reloading.
-- django-taggit**: To add tags to articles.
-- Markdown**: To support content written in Markdown in articles.
+- **django-taggit**: To add tags to articles.
+- **Markdown**: To support content written in Markdown in articles.
 - **pytest** and **pytest-django**: For project testing.
-- black**, **flake8** and **mypypy**: Tools to make sure the code complies with quality and formatting standards.
+- **black**, **flake8** and **mypypy**: Tools to make sure the code complies with quality and formatting standards.
 
 ## Instalación
 
