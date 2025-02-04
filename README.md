@@ -38,7 +38,7 @@ TechSage is a technology blog where we share articles, news and tutorials about 
 
    ```
    SECRET_KEY='your-secret-key'
-   DATABASE_URL='postgres://user:password@localhost:5432/techsage'
+   DEBUG=True
    ```
 
 5. **Perform migrations**
